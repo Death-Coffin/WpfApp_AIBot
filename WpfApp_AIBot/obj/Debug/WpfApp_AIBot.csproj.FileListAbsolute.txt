@@ -1,0 +1,15 @@
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\bin\Debug\WpfApp_AIBot.exe.config
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\bin\Debug\WpfApp_AIBot.exe
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\bin\Debug\WpfApp_AIBot.pdb
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.csproj.AssemblyReference.cache
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\MainWindow.baml
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\MainWindow.g.cs
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\App.g.cs
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot_MarkupCompile.cache
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.g.resources
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.Properties.Resources.resources
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.csproj.GenerateResource.cache
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.csproj.CoreCompileInputs.cache
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.exe
+C:\Users\ljord\source\repos\WpfApp_AIBot\WpfApp_AIBot\obj\Debug\WpfApp_AIBot.pdb

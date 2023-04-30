@@ -1,0 +1,31 @@
+﻿<Window x:Name="MainWindow1" x:Class="AIDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AI Chat" Height="350" Width="525" ResizeMode="NoResize" Background="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <Label x:Name="EnterYourMessageLBL" Content="Enter your message:" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="UserTextBox" Width="300" BorderBrush="Black" Background="#FFCECECE" VerticalContentAlignment="Center"/>
+            <Button x:Name="SendBTN" Content="" Margin="10" Click="OnAskButtonClick" Width="22.7966666666667" BorderBrush="White">
+                <Button.Background>
+                    <ImageBrush ImageSource="/Send Symbol 1.png"/>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+        <ListBox x:Name="ChatOutputListBox" Grid.Row="1" Margin="10" BorderBrush="Black" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Background="#FFCECECE" SelectionMode="Multiple">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:Name="DarkModeBTN" Content="" HorizontalAlignment="Left" Height="16" Margin="463,0,0,0" VerticalAlignment="Center" Width="15" Background="Black" Click="DarkModeBTN_Click"/>
+        <Button x:Name="LightModeBTN" Content="" HorizontalAlignment="Left" Height="16" Margin="487,0,0,0" VerticalAlignment="Center" Width="15" Background="White" Click="LightModeBTN_Click"/>
+        <Button x:Name="redButton" Content="" HorizontalAlignment="Left" Height="16" Margin="474.5,40,0,0" VerticalAlignment="Top" Width="16" Background="Red" Click="redButton_Click"/>
+
+    </Grid>
+</Window>
