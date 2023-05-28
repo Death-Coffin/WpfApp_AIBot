@@ -52,8 +52,8 @@ namespace AIDemo
 
             LightModeBTN.Visibility = Visibility.Hidden;
             CustomColourBrush.Color = color;
-            IBrushSendWhite.ImageSource = new BitmapImage(new Uri("C:\\Users\\ljord\\OneDrive\\Pictures\\Downloads\\Send Symbol 1-modified.png", UriKind.Relative));
-            IBrushSendBlack.ImageSource = new BitmapImage(new Uri("C:\\Users\\ljord\\OneDrive\\Pictures\\Downloads\\Send Symbol 1.png", UriKind.Relative));
+            IBrushSendWhite.ImageSource = new BitmapImage(new Uri("Send Symbol 1-modified.png", UriKind.Relative));
+            IBrushSendBlack.ImageSource = new BitmapImage(new Uri("Send Symbol 1.png", UriKind.Relative));
             redButton.Visibility = Visibility.Hidden;
         }
 
